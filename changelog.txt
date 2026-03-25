@@ -4,6 +4,8 @@ Date: TBD
   Changes:
     - Preserve combinator settings when embedding HUD combinator entities in blueprints.
     - Implement copy / paste of settings from one HUD combinator entity to another.
+  Bugfixes:
+    - Don't crash when the "hide HUD combinator" signal is passed.
 ---------------------------------------------------------------------------------------------------
 Version: 2.5.1
 Date: 2025-06-23
